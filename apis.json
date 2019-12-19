@@ -1,0 +1,37 @@
+{
+    "name": "San Diego, CA",
+    "description": "Better data for better government and better communities. The San Diego Regional Data Library acquires data for use in civic and social improvements and links data-savvy volunteers with organization that need help.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/www-sandiegodata-orgreportsmunicipal-open-data-policies_png.png",
+    "tags": [
+        "api service provider",
+        "city government",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/san-diego-ca\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "San Diego, CA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/www-sandiegodata-orgreportsmunicipal-open-data-policies_png.png",
+            "humanURL": "http:\/\/www.sandiegodata.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/san-diego-ca-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sandiegodata.org\/"
+        }
+    ]
+}
